@@ -1,4 +1,4 @@
-# FADOHS-Framework-for-Detection-of-Hate-Speech-on-Facebook-Using-Sentiment-and-Emotion-Analysis
+# FADOHS: Framework for Detection and Integration of Unstructured Data of Hate Speech on Facebook Using Sentiment and Emotion Analysis
 📌 Project Description
 
 FADOHS is an advanced framework designed to detect and integrate unstructured hate speech data from Facebook using sentiment and emotion analysis. The system leverages Natural Language Processing (NLP) techniques to analyze social media content and identify hate speech patterns, helping in monitoring and controlling harmful online discussions.
