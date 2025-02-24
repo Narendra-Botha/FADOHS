@@ -1,0 +1,41 @@
+FADOHS Framework for Detection and Integration of Unstructured Data of Hate Speech on Facebook Using Sentiment and Emotion Analysis
+
+Emotion recognition, clustering algorithm, sentiment analysis, data mining.
+
+
+FADOHS
+
+fadohs
+
+
+0- hate speech
+
+1- offensive
+
+2- Neutral
+
+3- Postive
+
+4- Negative 
+
+
+Members
+--------
+
+post_id
+post
+Prediction
+
+
+sentiment_and_emotion_analysis
+
+ if (prediction == 0):
+            val = 'Hate Speech'
+        elif (prediction == 1):
+            val = 'Offensive'
+        elif (prediction == 2):
+            val = 'Neutral'
+        elif (prediction == 3):
+            val = 'Positive'
+        elif (prediction == 4):
+            val = 'Negative'
