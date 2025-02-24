@@ -1,0 +1,1 @@
+# FADOHS-Framework-for-Detection-of-Hate-Speech-on-Facebook-Using-Sentiment-and-Emotion-Analysis
